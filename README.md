@@ -34,7 +34,7 @@ Proven ability in collaborating on projects and applying analytical techniques t
   <a href="https://github.com/Prateeksingh84" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1i3bdYQf2pmpLF7XwizbnxhLu40GISQYR/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1lB8x69wUeGiYQIa-_wnhsyJ5pdT1PQtj/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </p>  
@@ -59,4 +59,3 @@ Proven ability in collaborating on projects and applying analytical techniques t
 │       └── index.ts              # Configurations
 ├── astro.config.mjs              # Astro configuration
 └── package.json                  # Project dependencies & scripts
-
