@@ -41,11 +41,6 @@ Proven ability in collaborating on projects and applying analytical techniques t
 
 ---
 
-## 👤 Profile  
-<img src="7e10a2c9-2db7-4298-a884-5ea74e521894.png" alt="Profile Picture" width="200" style="border-radius:50%;"/>
-
----
-
 ## 📂 Project Structure  
 
 ```bash
@@ -64,3 +59,4 @@ Proven ability in collaborating on projects and applying analytical techniques t
 │       └── index.ts              # Configurations
 ├── astro.config.mjs              # Astro configuration
 └── package.json                  # Project dependencies & scripts
+
