@@ -1,0 +1,43 @@
+---
+const name = 'PRATEEK';
+const position = '(DATA SCIENCE/AI-ML ENTHUSIAST)'; 
+const aboutMe = 'A Data Science and AI-ML enthusiast with experience in data analysis, machine learning model development, and content creation. Skilled in Python and various libraries like Pandas, NumPy, and scikit-learn. Proven ability in collaborating on projects and applying analytical techniques to solve problems.'; 
+const linkedin = 'https://www.linkedin.com/in/prateek-singh-109473188/';
+const github = 'https://github.com/Prateeksingh84'; 
+const cvLink = '/files/PRATEEK_RESUME.pdf';
+const profileImage = '/images/profile.webp.png';
+import '../styles/card.css';
+---
+
+<div class="container">
+    <div class="card-container">
+        <div class="descripcion">
+            <h1>{name}</h1>
+            <h2>{position}</h2>
+            <p>{aboutMe}</p>
+            <div class="icons">
+                <a href={linkedin} class="hover-text" target="_blank">
+                    <span class="tooltip-text" id="fade">
+                        LinkedIn
+                    </span>
+                    <i class="bi bi-linkedin"></i>
+                </a>
+                <a href={github} class="hover-text" target="_blank">
+                    <span class="tooltip-text" id="fade">
+                        GitHub
+                    </span>
+                    <i class="bi bi-github"></i>
+                </a>
+                <a href={cvLink} class="hover-text" target="_blank">
+                    <span class="tooltip-text" id="fade">
+                        Resume
+                    </span>
+                    <i class="bi bi-file-earmark-arrow-down"></i>
+                </a>
+            </div>
+        </div>
+        <div class="image">
+            <img src={profileImage} alt="">
+        </div>
+    </div>
+</div>
